@@ -17,6 +17,3 @@ Para contribuir al manual, sigue los pasos a continuación:
 3. Abre un Pull Request (PR) para revisión.
 4. Los revisores proporcionarán comentarios y, una vez aprobados, tu PR será fusionado.
 
-## Licencia
-
-Este proyecto está bajo la licencia [MIT](/LICENSE).
